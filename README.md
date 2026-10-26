@@ -7,9 +7,10 @@ Diagnóstico y corrección de la base de datos de BusRD
 
 | Nombre | Matrícula | Aporte principal |
 |---|---|---|
-| Jeremy Macea | A00158620 | _Pendiente_ |
-| _Nombre 2_ | _Matrícula_ | _Pendiente_ |
-| _Nombre 3_ | _Matrícula_ | _Pendiente_ |
+| Jeremy Macea | A00158620
+| _Nombre 2_ | _Matrícula_
+| _Nombre 3_ | _Matrícula_
+| _Nombre 4_ | _Matrícula_
 
 ## Datos asignados al grupo
 
