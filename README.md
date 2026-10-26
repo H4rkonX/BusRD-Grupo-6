@@ -6,7 +6,7 @@ Diagnóstico y corrección de la base de datos de BusRD
 ## Integrantes
 
 | Nombre | Matrícula |
-|---|---|---|
+|---|---|
 | Jeremy Macea | A00158620
 | _Nombre 2_ | _Matrícula_
 | _Nombre 3_ | _Matrícula_
