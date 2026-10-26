@@ -8,9 +8,9 @@ Diagnóstico y corrección de la base de datos de BusRD
 | Nombre | Matrícula |
 |---|---|
 | Jeremy Macea | A00158620
-| _Nombre 2_ | _Matrícula_
-| _Nombre 3_ | _Matrícula_
-| _Nombre 4_ | _Matrícula_
+| Brian Ramírez | A00138210
+| Christian Tavera | A00146194
+| Anthony Félix | A00150495
 
 ## Datos asignados al grupo
 
