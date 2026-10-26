@@ -25,3 +25,7 @@ Diagnóstico y corrección de la base de datos de BusRD
 
 - SQL Server 2022 (Developer o Express) y SQL Server Management Studio (SSMS).
 - Carpeta de respaldos: `C:\Backups\BusRD\` (SQL Server corre en la misma máquina).
+
+## Orden de Ejecucion
+
+Cada script esta enumerado de acuerdo a su order, importante (*01_x2venta_sp_VenderBoleto_ejecutar_al_final_como_demo.sql*) solo se ejecuta correctamente como demo luego de correr todos los scripts, igual aquellos que tienen (*test*) en el nombre deben ser ejecutados luego del main script correspondiente a su numero.
