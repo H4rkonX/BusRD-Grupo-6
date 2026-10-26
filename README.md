@@ -19,7 +19,7 @@ Diagnóstico y corrección de la base de datos de BusRD
 | Número de grupo | **6** |
 | Cliente para la consulta C2 (grupo × 1000) | **6000** |
 | Cédula del cliente 6000 | `40200006000` |
-| Viaje asignado (C1 y borrado de E5) | **16000** _(reemplazar si el docente asignó otro)_ |
+| Viaje asignado (C1 y borrado de E5) | **16000** |
 
 ## Entorno
 
