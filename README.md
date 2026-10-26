@@ -1,7 +1,7 @@
 # BusRD-Grupo-6
 
 Trabajo Final de **Taller de Base de Datos III**.
-Diagnóstico y corrección de la base de datos de BusRD (venta de boletos de autobús interurbano): integridad, concurrencia, optimización, seguridad y respaldos.
+Diagnóstico y corrección de la base de datos de BusRD
 
 ## Integrantes
 
